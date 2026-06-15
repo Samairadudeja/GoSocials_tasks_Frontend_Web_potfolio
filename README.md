@@ -17,14 +17,6 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript to
 - CSS3
 - JavaScript
 
-## Project Structure
-
-Portfolio/
-├── index.html
-├── style.css
-├── script.js
-└── images/
-
 ## How to Run
 
 1. Download or clone the repository.
