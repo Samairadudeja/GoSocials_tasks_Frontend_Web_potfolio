@@ -1,0 +1,94 @@
+h1{color:#654321}
+nav {
+    background:#A67B5B;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+.info{
+    text-align:center;
+    color:#654321;
+}
+.info img{
+    height: 100px;
+    width:100px;
+}
+.about h2{
+    color:#654321;
+}
+.about{
+    color:#A67B5B;
+    text-align:justify;
+}
+ .scontainer{
+    display:flex;
+    gap:100px;
+    justify-content:space-between;
+    
+    
+ } 
+ .skill{
+    height:50px;
+    width:70px;
+    border-radius:10px;
+    background:white;
+    display:flex;
+    color:#654321;
+    text-align:center;
+    justify-content:center;
+ }
+ .s{
+    color:#654321;
+ }
+ .projects{
+    color:#654321;
+ }  
+ .p1container{
+    height:100px;
+    width:150px;
+    border-radius:20px;
+    background:white;
+    text-align:center;
+ }
+.p2container{
+    height:100px;
+    width:150px;
+    border-radius:20px;
+    background:white;
+    text-align:center;
+ }
+.p3container{
+    height:100px;
+    width:150px;
+    border-radius:20px;
+    background:white;
+    text-align:center;
+ }
+ .education h2{
+    color:#654321;
+
+ }
+ .education{
+    color:#A67B5B;
+    text-align:center;
+ }
+ .contact h2{
+    color:#654321;
+
+ }
+ .contact{
+    color:#A67B5B;
+ }
+ .footer{
+     background:#2B1B17;
+    color:white;
+    text-align:center;
+    padding:10px;
+ }
+
